@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/node": "24.1.0",
     "axios": "1.11.0",
-    "node-gtk": "0.14.0",
+    "node-gtk": "1.0.0",
     "react": "19.1.1",
     "react-native-gtk4": "workspace:*"
   },
