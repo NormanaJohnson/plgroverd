@@ -60,7 +60,7 @@
     "eslint-plugin-react": "7.37.5",
     "jest": "30.0.5",
     "prettier": "3.6.2",
-    "ts-jest": "29.4.0",
+    "ts-jest": "29.4.1",
     "ts-jest-resolver": "2.0.1",
     "ts-node": "10.9.2",
     "tsup": "8.5.0",
