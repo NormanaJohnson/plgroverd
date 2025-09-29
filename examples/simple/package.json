@@ -14,7 +14,7 @@
     "react-native-gtk4": "workspace:*"
   },
   "devDependencies": {
-    "@types/react": "19.1.13",
+    "@types/react": "19.1.15",
     "typescript": "5.8.3"
   }
 }
