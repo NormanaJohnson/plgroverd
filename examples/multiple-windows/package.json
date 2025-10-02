@@ -10,11 +10,11 @@
   },
   "dependencies": {
     "node-gtk": "1.0.0",
-    "react": "19.1.1",
+    "react": "19.2.0",
     "react-native-gtk4": "workspace:*"
   },
   "devDependencies": {
-    "@types/react": "19.1.16",
+    "@types/react": "19.2.0",
     "typescript": "5.8.3"
   }
 }
