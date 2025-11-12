@@ -55,7 +55,7 @@
     ],
     "devDependencies": {
         "@types/inquirer": "9.0.9",
-        "@types/node": "24.10.0",
+        "@types/node": "24.10.1",
         "@types/yargs": "17.0.34",
         "@typescript-eslint/eslint-plugin": "8.46.4",
         "@typescript-eslint/parser": "8.46.4",
