@@ -297,8 +297,8 @@ importers:
         specifier: 24.10.1
         version: 24.10.1
       '@types/yargs':
-        specifier: 17.0.34
-        version: 17.0.34
+        specifier: 17.0.35
+        version: 17.0.35
       '@typescript-eslint/eslint-plugin':
         specifier: 8.46.4
         version: 8.46.4(@typescript-eslint/parser@8.46.4(eslint@9.39.1)(typescript@5.8.3))(eslint@9.39.1)(typescript@5.8.3)
@@ -1843,8 +1843,8 @@ packages:
   '@types/yargs-parser@21.0.3':
     resolution: {integrity: sha512-I4q9QU9MQv4oEOz4tAHJtNz1cwuLxn2F3xcc2iV5WdqLPpUnj30aUuxt1mAxYTG+oe8CZMV/+6rU4S4gRDzqtQ==}
 
-  '@types/yargs@17.0.34':
-    resolution: {integrity: sha512-KExbHVa92aJpw9WDQvzBaGVE2/Pz+pLZQloT2hjL8IqsZnV62rlPOYvNnLmf/L2dyllfVUOVBj64M0z/46eR2A==}
+  '@types/yargs@17.0.35':
+    resolution: {integrity: sha512-qUHkeCyQFxMXg79wQfTtfndEC+N9ZZg76HJftDJp+qH2tV7Gj4OJi7l+PiWwJ+pWtW8GwSmqsDj/oymhrTWXjg==}
 
   '@typescript-eslint/eslint-plugin@8.46.4':
     resolution: {integrity: sha512-R48VhmTJqplNyDxCyqqVkFSZIx1qX6PzwqgcXn1olLrzxcSBDlOsbtcnQuQhNtnNiJ4Xe5gREI1foajYaYU2Vg==}
@@ -5906,7 +5906,7 @@ snapshots:
       '@types/istanbul-lib-coverage': 2.0.6
       '@types/istanbul-reports': 3.0.4
       '@types/node': 24.10.1
-      '@types/yargs': 17.0.34
+      '@types/yargs': 17.0.35
       chalk: 4.1.2
 
   '@jest/types@30.0.5':
@@ -5916,7 +5916,7 @@ snapshots:
       '@types/istanbul-lib-coverage': 2.0.6
       '@types/istanbul-reports': 3.0.4
       '@types/node': 24.10.1
-      '@types/yargs': 17.0.34
+      '@types/yargs': 17.0.35
       chalk: 4.1.2
 
   '@jest/types@30.2.0':
@@ -5926,7 +5926,7 @@ snapshots:
       '@types/istanbul-lib-coverage': 2.0.6
       '@types/istanbul-reports': 3.0.4
       '@types/node': 24.10.1
-      '@types/yargs': 17.0.34
+      '@types/yargs': 17.0.35
       chalk: 4.1.2
 
   '@jridgewell/gen-mapping@0.3.12':
@@ -6199,7 +6199,7 @@ snapshots:
 
   '@types/yargs-parser@21.0.3': {}
 
-  '@types/yargs@17.0.34':
+  '@types/yargs@17.0.35':
     dependencies:
       '@types/yargs-parser': 21.0.3
 
