@@ -65,7 +65,7 @@
         "prettier": "3.6.2",
         "rimraf": "6.1.0",
         "ts-node": "10.9.2",
-        "typescript": "5.8.3"
+        "typescript": "5.9.3"
     },
     "dependencies": {
         "@ts-for-gir/generator-base": "workspace:*",
