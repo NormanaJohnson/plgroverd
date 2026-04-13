@@ -383,8 +383,8 @@ importers:
         specifier: 8.58.1
         version: 8.58.1(eslint@9.39.2)(typescript@5.9.3)
       ejs:
-        specifier: 5.0.1
-        version: 5.0.1
+        specifier: 5.0.2
+        version: 5.0.2
       eslint:
         specifier: 9.39.2
         version: 9.39.2
@@ -413,8 +413,8 @@ importers:
         specifier: 2.0.20
         version: 2.0.20
       ejs:
-        specifier: 5.0.1
-        version: 5.0.1
+        specifier: 5.0.2
+        version: 5.0.2
       fast-xml-parser:
         specifier: 5.5.11
         version: 5.5.11
@@ -2576,8 +2576,8 @@ packages:
   eastasianwidth@0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
 
-  ejs@5.0.1:
-    resolution: {integrity: sha512-COqBPFMxuPTPspXl2DkVYaDS3HtrD1GpzOGkNTJ1IYkifq/r9h8SVEFrjA3D9/VJGOEoMQcrlhpntcSUrM8k6A==}
+  ejs@5.0.2:
+    resolution: {integrity: sha512-IpbUaI/CAW86l3f+T8zN0iggSc0LmMZLcIW5eRVStLVNCoTXkE0YlncbbH50fp8Cl6zHIky0sW2uUbhBqGw0Jw==}
     engines: {node: '>=0.12.18'}
     hasBin: true
 
@@ -7054,7 +7054,7 @@ snapshots:
 
   eastasianwidth@0.2.0: {}
 
-  ejs@5.0.1: {}
+  ejs@5.0.2: {}
 
   electron-to-chromium@1.5.313: {}
 
