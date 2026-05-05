@@ -62,7 +62,7 @@
     "dependencies": {
         "colorette": "2.0.20",
         "ejs": "5.0.2",
-        "fast-xml-parser": "5.7.2",
+        "fast-xml-parser": "5.7.3",
         "lodash": "4.18.1"
     }
 }
