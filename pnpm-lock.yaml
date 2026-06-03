@@ -24,15 +24,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -43,15 +43,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -62,15 +62,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -81,15 +81,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -100,15 +100,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -119,15 +119,15 @@ importers:
         specifier: 1.0.0
         version: 1.0.0(encoding@0.1.13)
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -135,8 +135,8 @@ importers:
   examples/stylesheet:
     dependencies:
       react:
-        specifier: 19.2.6
-        version: 19.2.6
+        specifier: 19.2.7
+        version: 19.2.7
       react-native-gtk4:
         specifier: workspace:*
         version: link:../../packages/react-native-gtk4
@@ -145,8 +145,8 @@ importers:
         specifier: 25.9.1
         version: 25.9.1
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       typescript:
         specifier: 6.0.3
         version: 6.0.3
@@ -218,8 +218,8 @@ importers:
         specifier: 25.9.1
         version: 25.9.1
       '@types/react':
-        specifier: 19.2.15
-        version: 19.2.15
+        specifier: 19.2.16
+        version: 19.2.16
       '@types/react-reconciler':
         specifier: 0.28.8
         version: 0.28.8
@@ -1873,8 +1873,8 @@ packages:
   '@types/react-reconciler@0.28.8':
     resolution: {integrity: sha512-SN9c4kxXZonFhbX4hJrZy37yw9e7EIxcpHCxQv5JUS18wDE5ovkQKlqQEkufdJCCMfuI9BnjUJvhYeJ9x5Ra7g==}
 
-  '@types/react@19.2.15':
-    resolution: {integrity: sha512-eRwcGNHve+E8qtEQSSRl6urh+rFop4v8gm6O8rGv25CodbvFdLjA1vVQ1KkiFE0w0UPOnb8tDiFKL5lp0rtY5Q==}
+  '@types/react@19.2.16':
+    resolution: {integrity: sha512-esJiCAnl0kfpNdE69f3So4WJUXy95dLZydX0KwK46riIHDzHM7O9Vtf9xCHW0PXIqvgqNrswl522kA/5yx+F4w==}
 
   '@types/stack-utils@2.0.3':
     resolution: {integrity: sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==}
@@ -4060,8 +4060,8 @@ packages:
     resolution: {integrity: sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ==}
     engines: {node: '>=0.10.0'}
 
-  react@19.2.6:
-    resolution: {integrity: sha512-sfWGGfavi0xr8Pg0sVsyHMAOziVYKgPLNrS7ig+ivMNb3wbCBw3KxtflsGBAwD3gYQlE/AEZsTLgToRrSCjb0Q==}
+  react@19.2.7:
+    resolution: {integrity: sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ==}
     engines: {node: '>=0.10.0'}
 
   readable-stream@3.6.2:
@@ -6323,9 +6323,9 @@ snapshots:
 
   '@types/react-reconciler@0.28.8':
     dependencies:
-      '@types/react': 19.2.15
+      '@types/react': 19.2.16
 
-  '@types/react@19.2.15':
+  '@types/react@19.2.16':
     dependencies:
       csstype: 3.2.3
 
@@ -8978,7 +8978,7 @@ snapshots:
     dependencies:
       loose-envify: 1.4.0
 
-  react@19.2.6: {}
+  react@19.2.7: {}
 
   readable-stream@3.6.2:
     dependencies:
