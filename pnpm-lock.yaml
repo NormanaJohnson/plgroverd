@@ -21,8 +21,8 @@ importers:
         specifier: 1.18.0
         version: 1.18.0
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -40,8 +40,8 @@ importers:
   examples/file-dialogs:
     dependencies:
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -59,8 +59,8 @@ importers:
   examples/flatpak:
     dependencies:
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -78,8 +78,8 @@ importers:
   examples/kitchen-sink:
     dependencies:
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -97,8 +97,8 @@ importers:
   examples/multiple-windows:
     dependencies:
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -116,8 +116,8 @@ importers:
   examples/simple:
     dependencies:
       node-gtk:
-        specifier: 2.0.0
-        version: 2.0.0(encoding@0.1.13)
+        specifier: 2.1.0
+        version: 2.1.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -3778,8 +3778,8 @@ packages:
   node-gtk@0.12.0:
     resolution: {integrity: sha512-T9QHydY3ykSzcg3/6RHLLGuYWvBZJZY3osPAKQunIgKPvFs5BAUoGk3w+P6P6HpAzzYUPL7ySAmixjMtalS/iA==}
 
-  node-gtk@2.0.0:
-    resolution: {integrity: sha512-g8sTbOGhdnbf8MDHCJLtX8SalV+whv77Jqu0ejCORH2c8Os+2Lz2eJC29NmLdDgB4JPbupYgjbw3fIWy/smMDg==}
+  node-gtk@2.1.0:
+    resolution: {integrity: sha512-PZSjTSi2tV+ZxRbHe+e9Yf6Ibdl7LqMHXC8YJMlKq1dvQ/KERKxZ9toMltYbTXoW7HCK8sxG3iD9ccVaV4d7Jg==}
     hasBin: true
 
   node-gyp@11.5.0:
@@ -8710,7 +8710,7 @@ snapshots:
       - encoding
       - supports-color
 
-  node-gtk@2.0.0(encoding@0.1.13):
+  node-gtk@2.1.0(encoding@0.1.13):
     dependencies:
       '@mapbox/node-pre-gyp': 1.0.11(encoding@0.1.13)
       lodash.camelcase: 4.3.0
