@@ -21,8 +21,8 @@ importers:
         specifier: 1.18.1
         version: 1.18.1
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -40,8 +40,8 @@ importers:
   examples/file-dialogs:
     dependencies:
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -59,8 +59,8 @@ importers:
   examples/flatpak:
     dependencies:
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -78,8 +78,8 @@ importers:
   examples/kitchen-sink:
     dependencies:
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -97,8 +97,8 @@ importers:
   examples/multiple-windows:
     dependencies:
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -116,8 +116,8 @@ importers:
   examples/simple:
     dependencies:
       node-gtk:
-        specifier: 3.0.0
-        version: 3.0.0(encoding@0.1.13)
+        specifier: 4.0.0
+        version: 4.0.0(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -3711,8 +3711,8 @@ packages:
   node-gtk@0.12.0:
     resolution: {integrity: sha512-T9QHydY3ykSzcg3/6RHLLGuYWvBZJZY3osPAKQunIgKPvFs5BAUoGk3w+P6P6HpAzzYUPL7ySAmixjMtalS/iA==}
 
-  node-gtk@3.0.0:
-    resolution: {integrity: sha512-1OY+3xprLg3YhgTtrm22JQ3ISA9PveNk9cK18Vumo95hK6wdhCr4i0D0bmpizk7J521aryLqJT11N+fwUzcNow==}
+  node-gtk@4.0.0:
+    resolution: {integrity: sha512-dWCpYzFyDkc99YNoUxTv0vNAvF6aq04OHZNoKo9kahnynU4t5jv8Ox+pvy+eGjdUMQpbS2zH2j9boHBi+krxww==}
     hasBin: true
 
   node-gyp@11.5.0:
@@ -3827,8 +3827,8 @@ packages:
     resolution: {integrity: sha512-/bjOqmgETBYB5BoEeGVea8dmvHb2m9GLy1E9W43yeyfP6QQCZGFNa+XRceJEuDB6zqr+gKpIAmlLebMpykw/MQ==}
     engines: {node: '>=10'}
 
-  p-map@7.0.4:
-    resolution: {integrity: sha512-tkAQEw8ysMzmkhgw8k+1U/iPhWNhykKnSk4Rd5zLoPJCuJaGRPo6YposrZgaxHKzDHdDWWZvE/Sk7hsL2X/CpQ==}
+  p-map@7.0.5:
+    resolution: {integrity: sha512-e8vJF4XdVkzqqSHguEMz41mQO1wKwxKm5ENrUJQUu9kLDCtn83cxbyHZcszr4QC5zEA7WffRRC4gsTecC7J9oA==}
     engines: {node: '>=18'}
 
   p-try@2.2.0:
@@ -6779,7 +6779,7 @@ snapshots:
       minipass-collect: 2.0.1
       minipass-flush: 1.0.7
       minipass-pipeline: 1.2.4
-      p-map: 7.0.4
+      p-map: 7.0.5
       ssri: 12.0.0
       tar: 7.5.19
       unique-filename: 4.0.0
@@ -8552,7 +8552,7 @@ snapshots:
       - encoding
       - supports-color
 
-  node-gtk@3.0.0(encoding@0.1.13):
+  node-gtk@4.0.0(encoding@0.1.13):
     dependencies:
       '@mapbox/node-pre-gyp': 1.0.11(encoding@0.1.13)
       lodash.camelcase: 4.3.0
@@ -8713,7 +8713,7 @@ snapshots:
     dependencies:
       aggregate-error: 3.1.0
 
-  p-map@7.0.4: {}
+  p-map@7.0.5: {}
 
   p-try@2.2.0: {}
 
