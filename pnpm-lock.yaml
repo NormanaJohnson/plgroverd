@@ -21,8 +21,8 @@ importers:
         specifier: 1.18.1
         version: 1.18.1
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -40,8 +40,8 @@ importers:
   examples/file-dialogs:
     dependencies:
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -59,8 +59,8 @@ importers:
   examples/flatpak:
     dependencies:
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -78,8 +78,8 @@ importers:
   examples/kitchen-sink:
     dependencies:
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -97,8 +97,8 @@ importers:
   examples/multiple-windows:
     dependencies:
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -116,8 +116,8 @@ importers:
   examples/simple:
     dependencies:
       node-gtk:
-        specifier: 4.0.0
-        version: 4.0.0(encoding@0.1.13)
+        specifier: 4.0.1
+        version: 4.0.1(encoding@0.1.13)
       react:
         specifier: 19.2.7
         version: 19.2.7
@@ -3711,8 +3711,8 @@ packages:
   node-gtk@0.12.0:
     resolution: {integrity: sha512-T9QHydY3ykSzcg3/6RHLLGuYWvBZJZY3osPAKQunIgKPvFs5BAUoGk3w+P6P6HpAzzYUPL7ySAmixjMtalS/iA==}
 
-  node-gtk@4.0.0:
-    resolution: {integrity: sha512-dWCpYzFyDkc99YNoUxTv0vNAvF6aq04OHZNoKo9kahnynU4t5jv8Ox+pvy+eGjdUMQpbS2zH2j9boHBi+krxww==}
+  node-gtk@4.0.1:
+    resolution: {integrity: sha512-EY9BNq1aS8aqOQ6NrxaarjxqzePVnltY7kCH7I3uEFXJqxZ6hwHDHMg+8yZTFrPCJWOB7ffTSmi6Gy+NdBfB1A==}
     hasBin: true
 
   node-gyp@11.5.0:
@@ -3893,6 +3893,10 @@ packages:
 
   picomatch@4.0.4:
     resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
+    engines: {node: '>=12'}
+
+  picomatch@4.0.5:
+    resolution: {integrity: sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A==}
     engines: {node: '>=12'}
 
   pirates@4.0.7:
@@ -7317,9 +7321,9 @@ snapshots:
     optionalDependencies:
       picomatch: 4.0.3
 
-  fdir@6.5.0(picomatch@4.0.4):
+  fdir@6.5.0(picomatch@4.0.5):
     optionalDependencies:
-      picomatch: 4.0.4
+      picomatch: 4.0.5
 
   file-entry-cache@8.0.0:
     dependencies:
@@ -8552,7 +8556,7 @@ snapshots:
       - encoding
       - supports-color
 
-  node-gtk@4.0.0(encoding@0.1.13):
+  node-gtk@4.0.1(encoding@0.1.13):
     dependencies:
       '@mapbox/node-pre-gyp': 1.0.11(encoding@0.1.13)
       lodash.camelcase: 4.3.0
@@ -8761,6 +8765,8 @@ snapshots:
   picomatch@4.0.3: {}
 
   picomatch@4.0.4: {}
+
+  picomatch@4.0.5: {}
 
   pirates@4.0.7: {}
 
@@ -9296,8 +9302,8 @@ snapshots:
 
   tinyglobby@0.2.17:
     dependencies:
-      fdir: 6.5.0(picomatch@4.0.4)
-      picomatch: 4.0.4
+      fdir: 6.5.0(picomatch@4.0.5)
+      picomatch: 4.0.5
 
   tmpl@1.0.5: {}
 
