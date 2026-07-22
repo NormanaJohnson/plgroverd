@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "node-gtk": "4.1.1",
-    "react": "19.2.7",
+    "react": "19.2.8",
     "react-native-gtk4": "workspace:*"
   },
   "devDependencies": {
