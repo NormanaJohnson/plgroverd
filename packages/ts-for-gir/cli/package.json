@@ -75,6 +75,6 @@
         "cosmiconfig": "9.0.2",
         "inquirer": "14.0.2",
         "tiny-glob": "0.2.9",
-        "yargs": "18.0.0"
+        "yargs": "18.1.0"
     }
 }
