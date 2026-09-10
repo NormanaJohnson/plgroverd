@@ -163,8 +163,8 @@ importers:
         specifier: 3.9.6
         version: 3.9.6
       remeda:
-        specifier: 2.45.0
-        version: 2.45.0
+        specifier: 2.46.0
+        version: 2.46.0
       tsup:
         specifier: 8.5.1
         version: 8.5.1(typescript@6.0.3)
@@ -187,8 +187,8 @@ importers:
         specifier: 0.29.2
         version: 0.29.2(react@18.3.1)
       remeda:
-        specifier: 2.45.0
-        version: 2.45.0
+        specifier: 2.46.0
+        version: 2.46.0
     devDependencies:
       '@babel/core':
         specifier: 7.29.7
@@ -4116,8 +4116,8 @@ packages:
   react-is@18.3.1:
     resolution: {integrity: sha512-/LLMVyas0ljjAtoYiPqYiL8VWXzUUdThrmU5+n20DZv+a+ClRoevUzw5JxU+Ieh5/c87ytoTBV9G1FiKfNJdmg==}
 
-  react-is@19.2.8:
-    resolution: {integrity: sha512-s5un28nYxKJw5gvUHyW5PCC28CvBqLu9r3cWgzHT4Vo/5fqqkFcdRYsGcKf50WMPpjjFZS5d76fn3YCo2njKwQ==}
+  react-is@19.3.0:
+    resolution: {integrity: sha512-UpMYezM4v5/18F28aC66AEsjXIgE02kyEMH6yLdgLXu/UTfa1Ntwck/nNLrbqJsEXW7gPb0coNO9FQse9WTovA==}
 
   react-reconciler@0.29.2:
     resolution: {integrity: sha512-zZQqIiYgDCTP/f1N/mAR10nJGrPD2ZR+jDSEsKWJHYC7Cm2wodlwbR3upZRdC3cjIjSlTLNVyO7Iu0Yy7t2AYg==}
@@ -4167,8 +4167,8 @@ packages:
     resolution: {integrity: sha512-dLsljMd9sqwRkby8zhO1gSg3PnJIBFid8f4CQj/sXx+7cKx+E7u0PKhZ+U4wmhx7EfmtvnA318oVaIkAB1lRJw==}
     hasBin: true
 
-  remeda@2.45.0:
-    resolution: {integrity: sha512-CTftZ0GJSox3CH77OhJemj20sXXUScH/kpkExD6t2LP3IG+mPKASBMFkbvWtsvzhU+54gKcgH38WWVihfr7bCA==}
+  remeda@2.46.0:
+    resolution: {integrity: sha512-Apho8t3RLE97UKKop9GxqSunlzcJ2i6V52R9MECTlaokpjbmyNqjs6DV2mEce8/QVmI3c1Xsq8gtdKALqwRE4Q==}
     engines: {node: '>=18.0.0'}
 
   remove-trailing-spaces@1.0.8:
@@ -9033,7 +9033,7 @@ snapshots:
   pretty-format@30.5.1:
     dependencies:
       '@jest/react-is-18': react-is@18.3.1
-      '@jest/react-is-19': react-is@19.2.8
+      '@jest/react-is-19': react-is@19.3.0
       '@jest/schemas': 30.5.0
       ansi-styles: 5.2.0
 
@@ -9062,7 +9062,7 @@ snapshots:
 
   react-is@18.3.1: {}
 
-  react-is@19.2.8: {}
+  react-is@19.3.0: {}
 
   react-reconciler@0.29.2(react@18.3.1):
     dependencies:
@@ -9125,7 +9125,7 @@ snapshots:
     dependencies:
       jsesc: 3.1.0
 
-  remeda@2.45.0: {}
+  remeda@2.46.0: {}
 
   remove-trailing-spaces@1.0.8: {}
 
