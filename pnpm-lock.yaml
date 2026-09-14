@@ -163,8 +163,8 @@ importers:
         specifier: 3.9.6
         version: 3.9.6
       remeda:
-        specifier: 2.47.0
-        version: 2.47.0
+        specifier: 2.48.0
+        version: 2.48.0
       tsup:
         specifier: 8.5.1
         version: 8.5.1(typescript@6.0.3)
@@ -187,8 +187,8 @@ importers:
         specifier: 0.29.2
         version: 0.29.2(react@18.3.1)
       remeda:
-        specifier: 2.47.0
-        version: 2.47.0
+        specifier: 2.48.0
+        version: 2.48.0
     devDependencies:
       '@babel/core':
         specifier: 7.29.7
@@ -4167,8 +4167,8 @@ packages:
     resolution: {integrity: sha512-dLsljMd9sqwRkby8zhO1gSg3PnJIBFid8f4CQj/sXx+7cKx+E7u0PKhZ+U4wmhx7EfmtvnA318oVaIkAB1lRJw==}
     hasBin: true
 
-  remeda@2.47.0:
-    resolution: {integrity: sha512-LPyRi+dI3IGGeoNBKdfsTbx0Q+3mLonMbPipGF75Ym+/zNm5cpnwsTXtLbS79yb0V04D0gMS7qNAiTOwb4IoVQ==}
+  remeda@2.48.0:
+    resolution: {integrity: sha512-+tf74WyTpQT1lHI/zJeXOkMBqb6R9gNcd3T4DpXzjs26PdwEARCPKOjLAwJaQYrvSXS+nxsXMhEZD4NS40QuSg==}
     engines: {node: '>=18.0.0'}
 
   remove-trailing-spaces@1.0.8:
@@ -9125,7 +9125,7 @@ snapshots:
     dependencies:
       jsesc: 3.1.0
 
-  remeda@2.47.0: {}
+  remeda@2.48.0: {}
 
   remove-trailing-spaces@1.0.8: {}
 
