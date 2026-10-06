@@ -27,7 +27,7 @@
   "homepage": "https://github.com/eugeniodepalo/react-native-gtk4",
   "devDependencies": {
     "@ts-for-gir/lib": "workspace:*",
-    "@types/node": "26.6.3",
+    "@types/node": "26.6.4",
     "prettier": "3.9.9",
     "remeda": "2.50.0",
     "tsup": "8.5.1",
