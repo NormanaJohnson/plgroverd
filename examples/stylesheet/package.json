@@ -9,7 +9,7 @@
     "start": "cp -r data dist/ && node dist/index.js"
   },
   "dependencies": {
-    "react": "19.3.0",
+    "react": "19.3.1",
     "react-native-gtk4": "workspace:*"
   },
   "devDependencies": {
