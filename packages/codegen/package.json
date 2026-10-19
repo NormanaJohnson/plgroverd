@@ -30,7 +30,7 @@
     "@types/node": "26.6.5",
     "prettier": "3.9.10",
     "remeda": "2.51.0",
-    "tsup": "8.5.1",
+    "tsup": "9.0.0",
     "typescript": "6.0.3"
   }
 }
